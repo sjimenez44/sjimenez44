@@ -1,9 +1,9 @@
 ### Hi, I'm Santiago 👋
 
-🤖 I'm a mechatronics engineer, with passion of robotics & AI.
+🤖 I'm a mechatronics engineer, with passion of robotics, sensor fusion, computational vision & AI.
 
 - I'm Colombian, born in **Medellin**, city of eternal spring!🌹☀️🌲
-- 🌱 I’m currently learning backend with NodeJS
+- 🌱 I’m currently learning FARM stack.
 
 ## Find me on the web 🌎:
 - 🐦 Nosense Twitter [@sjimenezs_](https://twitter.com/sjimenezs_)
