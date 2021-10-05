@@ -13,6 +13,13 @@
 <br />
 <br />
 
+### Now Listening To: 🎧
+[<img src="https://novatorem-black-beta.vercel.app/api/spotify.py"  alt="Spotify Playing" width="500"  />](https://open.spotify.com/user/317fgq7yborbolmjynnnr4vehn64)
+
+<br />
+<br />
+<br />
+
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="50px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
