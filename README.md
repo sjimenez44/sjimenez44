@@ -2,10 +2,10 @@
 
 ### Social Media:
 
-<a href="https://www.instagram.com/sjz44_/">
+<a href="https://www.instagram.com/sjz44_/" alt="Instagram profile" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://twitter.com/sjimenezs_/">
+<a href="https://twitter.com/sjimenezs_/" alt="Twitter profile" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 
@@ -37,5 +37,9 @@
 <br />
 
 ### The Stuff I use everyday
-![image](https://img.shields.io/badge/Ubuntu-772953?style=for-the-badge&logo=linux&logoColor=white)
-![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+<a href="https://ubuntu.com/" alt="Ubuntu home page" target="_blank">
+    <img src="https://img.shields.io/badge/Ubuntu-772953?style=for-the-badge&logo=linux&logoColor=white">
+</a>
+<a href="https://store.steampowered.com/" alt="Steam store page" target="_blank">
+     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+</a>
